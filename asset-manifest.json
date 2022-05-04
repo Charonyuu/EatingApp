@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EatingApp/static/css/main.e6c13ad2.css",
+    "main.js": "/EatingApp/static/js/main.0f6e3d3a.js",
+    "static/js/787.dcf057c2.chunk.js": "/EatingApp/static/js/787.dcf057c2.chunk.js",
+    "index.html": "/EatingApp/index.html",
+    "main.e6c13ad2.css.map": "/EatingApp/static/css/main.e6c13ad2.css.map",
+    "main.0f6e3d3a.js.map": "/EatingApp/static/js/main.0f6e3d3a.js.map",
+    "787.dcf057c2.chunk.js.map": "/EatingApp/static/js/787.dcf057c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f6e3d3a.js"
+  ]
+}
